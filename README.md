@@ -3,7 +3,7 @@
 ## 環境構築
 
 Dockerビルド<br>
-1.git clone [git@github.com:coachtech-material/laravel-docker-template.git](git@github.com:coachtech-material/laravel-docker-template.git)<br>
+1.git clone git@github.com:coachtech-material/laravel-docker-template.git<br>
 2.docker-compose up -d --build
 
 Laravel環境構築<br>
@@ -20,10 +20,10 @@ Laravel 10.0<br>
 MySQL 8.0
 
 ## ER図
-< - - - 作成したER図の画像 - - - >
+
 
 ## URL
-開発環境：http://localhost/
+開発環境：http://localhost/<br>
 phpMyAdmin:http://localhost:8080/
 ​
 
