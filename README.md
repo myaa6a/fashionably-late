@@ -3,7 +3,7 @@
 ## 環境構築
 
 Dockerビルド<br>
-1.git clone git@github.com:coachtech-material/laravel-docker-template.git<br>
+1.git clone [git@github.com:coachtech-material/laravel-docker-template.git](git@github.com:coachtech-material/laravel-docker-template.git)<br>
 2.docker-compose up -d --build
 
 Laravel環境構築<br>
