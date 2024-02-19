@@ -21,13 +21,8 @@ MySQL 8.0.26
 
 ## ER図
 
+<img width="730" alt="スクリーンショット 2024-02-19 22 22 09" src="https://github.com/myaa6a/fashionably-late/assets/150535914/6671f728-43c0-4c1b-96f9-6706fc6b745a">
 
 ## URL
 開発環境：http://localhost/<br>
 phpMyAdmin:http://localhost:8080/
-​
-
-
-
-
-
