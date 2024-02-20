@@ -1,0 +1,46 @@
+* {
+    font-family: "Inika", "Noto Sans JP";
+    font-weight: 400;
+    font-style: normal;
+}
+
+.thanks__inner {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+    position: relative;
+}
+
+.thanks__background {
+    margin: -90px auto;
+    width: 100%;
+    font-size: 240px;
+    color: #f4f2f2;
+    z-index: -10;
+    text-align: center;
+}
+
+.thanks__content {
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 300px;
+    z-index: 0;
+}
+
+.thanks__heading {
+    margin-bottom: 40px;
+    color: #8B7969;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.home__button {
+    display: inline-block;
+    background-color: #8B7969;
+    color: #fff;
+    width: 120px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
